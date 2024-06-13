@@ -440,6 +440,12 @@
 | @Tribute   | [Telegram](https://t.me/tribute)     |                                            |                                             | [Website](https://tribute.tg)       |
 | Xtontracker | [Telegram](https://t.me/xtontracker)   |        |         |    [Website](https://xtontracker.com)     |
 
+## Payment processor
+
+| Name      | Telegram | GitHub                                             | Twitter | Website |
+| --------- | -------- | -------------------------------------------------- | ------- | ------- |
+| gobicycle |          | [GitHub](https://github.com/gobicycle/bicycle.git) |         |         |
+
 ## App Store
 
 | Name                 | Telegram                              | GitHub | Twitter                                 | Website                             |
